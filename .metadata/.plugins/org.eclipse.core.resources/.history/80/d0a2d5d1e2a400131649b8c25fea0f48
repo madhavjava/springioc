@@ -1,0 +1,5 @@
+package bookresource;
+
+public interface Book {
+
+}

@@ -1,0 +1,11 @@
+package madhav;
+
+public class Student {
+	int id;
+	String name;
+	public Student(){
+		id=45;
+		name="madhav";
+	}
+
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="issueManagementUrl">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="daoselect"/>
+			<item value="teja-iocex2"/>
+			<item value="teja-iocex1"/>
+			<item value="daofirst"/>
+			<item value="aopannotations"/>
+			<item value="aopschema"/>
+			<item value="annotationsex"/>
+			<item value="sampletest"/>
+			<item value="fourthioc"/>
+			<item value="thirdioc"/>
+			<item value="secondioc"/>
+			<item value="firstioc"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="daoselect"/>
+			<item value="teja-iocex2"/>
+			<item value="teja-iocex1"/>
+			<item value="daofirst"/>
+			<item value="aopannotations"/>
+			<item value="aopschema"/>
+			<item value="annotationsex"/>
+			<item value="sampletest"/>
+			<item value="fourthioc"/>
+			<item value="thirdioc"/>
+			<item value="secondioc"/>
+			<item value="firstioc"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,15 @@
+package madhav;
+
+public class Student {
+	int id;
+	String name;
+	public Student(){
+		id=45;
+		name="madhav";
+	}
+	public void display(){
+		System.out.println("id="+id);
+		System.out.println("name="+name);
+	}
+
+}

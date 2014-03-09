@@ -1,0 +1,17 @@
+package bookresource;
+
+public class Maths implements BookInterface{
+     String name;
+	@Override
+	public void setName() {
+		// TODO Auto-generated method stub
+		name="maths";
+	}
+
+	@Override
+	public void getName() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

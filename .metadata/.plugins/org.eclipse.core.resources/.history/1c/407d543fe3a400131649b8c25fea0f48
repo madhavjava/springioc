@@ -1,0 +1,17 @@
+package bookresource;
+
+public class TeluguBook implements BookInterface{
+    String name;
+	@Override
+	public void setName() {
+		// TODO Auto-generated method stub
+		name="maths";
+	}
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return name;
+		
+	}
+}
